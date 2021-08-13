@@ -9,7 +9,7 @@ Marketo has something called 'program' which is essentially a marketing campaign
 
 The overall plan was to get this running in AWS so it is built with a lambda_function
 
-The Main file to review is ->>>>> DevelopmentPM.py
+
 
 
 
