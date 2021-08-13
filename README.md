@@ -7,7 +7,7 @@ The Goal's objective: Proof of Concept for designing a ETL process between a Saa
 
 Marketo has something called 'program' which is essentially a marketing campaign.  Each of these marketing campaigns could have many people that belong to them.  The goal is to deliver the client people that have a relationship with these campaigns.
 
-The overall plan was to get this running in AWS so it is built with a lambda_function
+The overall plan was to get this running in AWS so it is built with a lambda_function and boto
 
 
 
