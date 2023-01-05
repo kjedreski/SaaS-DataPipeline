@@ -1,7 +1,7 @@
-# ETL-ExampleCode
-ETL of a SaaS system.  AWS and SaaS.  
+# SaaS Data Integration
+AWS and SaaS.  
 
-The Goal's objective: Proof of Concept for designing a ETL process between a SaaS system and delivering files to a S3 server. 
+The Goal's objective: Proof of Concept for designing a data pipeline between a SaaS system and delivering files to a S3 server. 
 
 (Please note, this code isn't going to be optimized)
 
